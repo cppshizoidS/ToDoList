@@ -1,2 +1,2 @@
 # ToDoList
-![](https://img.shields.io/tokei/lines/github/cppshizoidS/CSharp)
+![](https://img.shields.io/tokei/lines/github/cppshizoidS/ToDoList)
