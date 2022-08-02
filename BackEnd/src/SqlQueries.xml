@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Queries>
+	<InsertNote>
+		<![CDATA[]]>
+	</InsertNote>
+	<GetNote>
+		<![CDATA[]]>
+	</GetNote>
+	<GetNoteById>
+		<![CDATA[]]>
+	</GetNoteById>
+	<UpdateNote>
+		<![CDATA[]]>
+	</UpdateNote>
+	<DeleteNote>
+		<![CDATA[]]>
+	</DeleteNote>
+</Queries>
